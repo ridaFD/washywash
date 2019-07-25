@@ -27,8 +27,6 @@ class AddCustomerCms extends Component {
               Search
             </button>
           </form>
-        </div>
-        <div className="Add-user-button">
           <button
             type="button"
             class="btn btn-outline-primary"
@@ -37,6 +35,7 @@ class AddCustomerCms extends Component {
             Add User
           </button>
         </div>
+
         {this.state.isUser ? (
           <div className="Add-User-Form">
             <div class="form-group">
