@@ -1,1 +1,12 @@
- 
+.Seach-for-user,
+.Add-user-button {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.Add-User-Form {
+  justify-content: center;
+}
+.AddFormUser {
+  margin: 10px;
+}
